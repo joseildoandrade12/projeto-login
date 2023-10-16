@@ -1,1 +1,14 @@
 @charset "UTF-8";
+
+/* 
+    paleta de cores
+    verde: #49a09d
+    lilás: #5f2c52
+*/
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
